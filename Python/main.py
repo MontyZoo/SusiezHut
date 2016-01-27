@@ -1,6 +1,7 @@
 from Bio.Seq import Seq
 from collections import OrderedDict
 
+
 _fasta_file = '/users/karl/Downloads/dna1.fasta'
 #_fasta_file = '/users/karl/Downloads/dna.example.fasta'
 _seq_dict = OrderedDict()
